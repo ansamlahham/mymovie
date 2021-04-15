@@ -21,3 +21,4 @@ var imagesNumber= prompt('How many image do you want???');
 for(var i=0 ; i < imagesNumber; i++){
   document.write(userchoose);
 }
+
